@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**lumeirne/lumeirne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I am Rahul, my code name is Lumeirne. I am a passionate software developer and open-source enthusiast. I love building innovative solutions and contributing to the       developer community.
+- 🔭 I’m currently working on Django Project 
+- 🌱 I’m constantly learning new technologies and frameworks to enhance my skills.
+- 👯 I’m looking to collaborate on Machine Learning, Data Science and Python development.
+- 📫 How to reach me: Mail:- lumeirne@proton.me
 
-Here are some ideas to get you started:
+### Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programming Languages: Python, SQL
+- Frameworks and Libraries: Django, Pandas, Numpy, Scikit Learn, Matplotlib, NLP
+- Databases: MYSql, PostgreSQL
+
+### Let's Connect!

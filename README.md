@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on LLMs.
 - 🌱 I’m constantly learning new technologies and frameworks to enhance my skills, Current learning is Transformers.
 - 👯 I’m looking to collaborate on LLM, Machine Learning, Data Science and Python development.
-- 📫 How to reach me: Mail:- lumeirne@proton.me
+- 📫 How to reach me: Twitter/X - @lumeirne
 
 ### Tech Stack
 
